@@ -18,8 +18,8 @@ You can download subtitle files for translated languages bellow.
 If you want to contribute translation
 1. Download the .srt file you can translate (eg. English)
 2. Open .srt file in text editor like Notepad on PC or TextEdit on Mac
-3. Translate the file DO NOT CHANGE THE NUMBERS!
-4. Save as faf-albania-tet-we-can-do-better.YOURLANGUAGE.srt
+3. Translate the file **DO NOT CHANGE THE NUMBERS!**
+4. Save as *faf-albania-tet-we-can-do-better.YOURLANGUAGE.srt*
 5. Send the file to me
 
 ### Available translations
