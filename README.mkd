@@ -23,7 +23,7 @@ If you want to contribute translation
 2. Open .srt file in text editor like Notepad on PC or TextEdit on Mac
 3. Translate the file **DO NOT CHANGE THE NUMBERS!**
 4. Save as *faf-albania-tet-we-can-do-better.YOURLANGUAGE.srt*
-5. <a href="mailto: me@farandfurther.travel">e-mail me</a> the file!
+5. <a href="mailto:me@farandfurther.travel">e-mail me</a> the file!
 
 ### Available translations
 
