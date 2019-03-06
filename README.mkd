@@ -11,11 +11,11 @@ This content is licensed under a
 ## Video
 
 You can download 
-[https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.mp4](TET Albania: We can do better!)
+[TET Albania: We can do better!](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.mp4)
 video file and share it!
 
 
 ## Subtitles & Translations
 
-Czech - [https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.cz.srt](.srt file)
-English - [https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.en.srt](.srt file)
+Czech - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.cz.srt)
+English - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.en.srt)
