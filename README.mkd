@@ -22,6 +22,8 @@ If you want to contribute translation
 4. Save as faf-albania-tet-we-can-do-better.YOURLANGUAGE.srt
 5. Send the file to me
 
+### Available translations
+
 Czech - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.cz.srt)
 
 English - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.en.srt)
