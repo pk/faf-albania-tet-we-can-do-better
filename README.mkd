@@ -4,9 +4,9 @@
 
 # TET Albania - We can do better
 
-## Video
+## The Video
 
-You can download 
+You can **download** 
 [TET Albania: We can do better!](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.mp4)
 video file and share it!
 
