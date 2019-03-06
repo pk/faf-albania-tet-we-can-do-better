@@ -6,7 +6,7 @@
 
 ## The Video
 
-You can **find** [TET Albania: We can do better!](https://youtu.be/4UqmwGD0LJM) from YouTube!
+You can **find** [TET Albania: We can do better!](https://youtu.be/4UqmwGD0LJM) from YouTube & Share it!
 
 You can **find** [TET Albania: We can do better!](https://www.instagram.com/p/BntalICFjBW) from Instagram!
 
@@ -23,7 +23,7 @@ If you want to contribute translation
 2. Open .srt file in text editor like Notepad on PC or TextEdit on Mac
 3. Translate the file **DO NOT CHANGE THE NUMBERS!**
 4. Save as *faf-albania-tet-we-can-do-better.YOURLANGUAGE.srt*
-5. Send the file to me
+5. [e-mail me](mailto: me@farandfurther.travel) the file!
 
 ### Available translations
 
