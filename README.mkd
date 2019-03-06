@@ -1,12 +1,7 @@
 # TET Albania - We can do better
-
-## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
     <img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a>
-
-This content is licensed under a
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Video
 
@@ -18,4 +13,5 @@ video file and share it!
 ## Subtitles & Translations
 
 Czech - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.cz.srt)
+
 English - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.en.srt)
