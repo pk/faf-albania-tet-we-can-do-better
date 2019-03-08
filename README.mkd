@@ -27,6 +27,14 @@ If you want to contribute translation
 
 ### Available translations
 
+Albanian - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.al.srt) by 
+by (https://instagram.com/jamdorjanbulku)(@jamdorjanbulku)
+
 Czech - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.cz.srt)
+by (https://instagram.com/farandfurther)(@farandfurther)
 
 English - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.en.srt)
+by (https://instagram.com/farandfurther)(@farandfurther)
+
+Italian - [.srt file](https://github.com/pk/faf-albania-tet-we-can-do-better/raw/master/faf-albania-tet-we-can-do-better.it.srt)
+by (https://instagram.com/jamdorjanbulku)(@jamdorjanbulku)
