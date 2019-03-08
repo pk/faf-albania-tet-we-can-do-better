@@ -4,18 +4,18 @@
 
 2
 00:00:03,840 --> 00:00:09,660
- i cili është një ndër Parqet Kombëtare më të lashtë dhe të egër që në fakt kam qenë.
+  cili është një ndër Parqet Kombëtare më të lashtë dhe të egër që në fakt kam qenë.
 
 3
 00:00:09,680 --> 00:00:11,940
 Gjendja që kam gjetur është...
 
 4
-00:00:12,100 --> 00:00:14,200 
+00:00:12,100 --> 00:00:14,200
 Ka mbeturina kudo!
 
 5
-00:00:14,500 --> 00:00:15,620 
+00:00:14,500 --> 00:00:15,620
 Shikoni këtë!
 
 6
@@ -35,7 +35,8 @@ Kjo është çmenduri!
 Le t'a pastrojmë këtë!
 
 10
-00:00:23,580 --> 00:00:26,680 Gjëja e parë fare - dorashka të reja!
+00:00:23,580 --> 00:00:26,680
+Gjëja e parë fare - dorashka të reja!
 
 11
 00:00:53,720 --> 00:00:59,000
